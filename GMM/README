@@ -1,0 +1,7 @@
+run the 'Run.py' code using python2.7
+
+it uses the GMM_lib written by me as it contains the functions required
+
+if nan or singular matrices appear then rerun the code since initialisation is not done properly
+
+beacuse its basically a random number that is generated that may be singular etc 

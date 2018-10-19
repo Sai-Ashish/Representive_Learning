@@ -1,0 +1,5 @@
+FAILS IF:
+
+PCA fails if the data is non linear or not positive semi definite 
+
+Pca tries to find a linear representation of data in lower dimension
